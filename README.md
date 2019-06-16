@@ -1,4 +1,4 @@
-# RockCentral
+# Rock Central
 ======================
 Cydia allows users to add sources, where developers host their own packages. As a result, Cydia takes a long time to load and refreshing sources can take forever. The number of community apps on Cydia has increased exponentially since its release. As a result of this, the default APT implementation has become cumbersome, and loading times will only continue to get worse.
 
