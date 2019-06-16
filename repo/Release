@@ -1,0 +1,17 @@
+Origin: xTM3x Repo
+Label: xTM3x Repo
+Suite: stable
+Version: 1.0
+Codename: stable
+Architectures: iphoneos-arm
+Components: main
+Description: Cydia Repository for my Tweaks.
+MD5Sum:
+ 9355e931a7f01699706ae4f94287404b 8319 Packages
+ f209e6bc5fc7ad70876fef244d6509f9 2040 Packages.bz2
+SHA1:
+ 3a3fc9360d7f5390bd2a5b12c8ece96655972bfb 8319 Packages
+ 6c53905c0121ed5ccfdd1afcf6c71ff4ac5bf2b5 2040 Packages.bz2
+SHA256:
+ 2fb0bfbd4d2c0ee8827a884c4a95852a3e5e65af5ab7bdd31b547bccf53f69f8 8319 Packages
+ 9159d35783819a497bb637f5ea028e33ffc04d0e17e37d087bd038615a52372d 2040 Packages.bz2
